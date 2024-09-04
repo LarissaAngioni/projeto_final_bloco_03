@@ -24,6 +24,7 @@ function Navbar() {
             gap-5
             pr-10
             m-5
+            font-semibold
           "
         >
           <li className="hover:underline">
